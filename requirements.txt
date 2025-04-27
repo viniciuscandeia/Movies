@@ -1,3 +1,6 @@
 pandas
 numpy
 scikit-learn
+sentence-transformers
+hf_xet
+matplotlib
