@@ -4,3 +4,4 @@ scikit-learn
 sentence-transformers
 hf_xet
 matplotlib
+umap-learn
